@@ -1,0 +1,1568 @@
+[
+    {
+        "Week": "2018-03-11",
+        "javascript": 28,
+        "python": 62,
+        "java": 53
+    },
+    {
+        "Week": "2018-03-18",
+        "javascript": 26,
+        "python": 63,
+        "java": 55
+    },
+    {
+        "Week": "2018-03-25",
+        "javascript": 26,
+        "python": 63,
+        "java": 52
+    },
+    {
+        "Week": "2018-04-01",
+        "javascript": 28,
+        "python": 68,
+        "java": 52
+    },
+    {
+        "Week": "2018-04-08",
+        "javascript": 26,
+        "python": 64,
+        "java": 54
+    },
+    {
+        "Week": "2018-04-15",
+        "javascript": 27,
+        "python": 65,
+        "java": 55
+    },
+    {
+        "Week": "2018-04-22",
+        "javascript": 27,
+        "python": 64,
+        "java": 55
+    },
+    {
+        "Week": "2018-04-29",
+        "javascript": 28,
+        "python": 63,
+        "java": 49
+    },
+    {
+        "Week": "2018-05-06",
+        "javascript": 27,
+        "python": 62,
+        "java": 48
+    },
+    {
+        "Week": "2018-05-13",
+        "javascript": 26,
+        "python": 61,
+        "java": 47
+    },
+    {
+        "Week": "2018-05-20",
+        "javascript": 26,
+        "python": 57,
+        "java": 43
+    },
+    {
+        "Week": "2018-05-27",
+        "javascript": 21,
+        "python": 55,
+        "java": 41
+    },
+    {
+        "Week": "2018-06-03",
+        "javascript": 27,
+        "python": 63,
+        "java": 46
+    },
+    {
+        "Week": "2018-06-10",
+        "javascript": 26,
+        "python": 65,
+        "java": 45
+    },
+    {
+        "Week": "2018-06-17",
+        "javascript": 25,
+        "python": 80,
+        "java": 47
+    },
+    {
+        "Week": "2018-06-24",
+        "javascript": 26,
+        "python": 63,
+        "java": 45
+    },
+    {
+        "Week": "2018-07-01",
+        "javascript": 19,
+        "python": 55,
+        "java": 38
+    },
+    {
+        "Week": "2018-07-08",
+        "javascript": 25,
+        "python": 63,
+        "java": 44
+    },
+    {
+        "Week": "2018-07-15",
+        "javascript": 24,
+        "python": 64,
+        "java": 46
+    },
+    {
+        "Week": "2018-07-22",
+        "javascript": 25,
+        "python": 65,
+        "java": 44
+    },
+    {
+        "Week": "2018-07-29",
+        "javascript": 25,
+        "python": 67,
+        "java": 44
+    },
+    {
+        "Week": "2018-08-05",
+        "javascript": 26,
+        "python": 61,
+        "java": 43
+    },
+    {
+        "Week": "2018-08-12",
+        "javascript": 24,
+        "python": 61,
+        "java": 42
+    },
+    {
+        "Week": "2018-08-19",
+        "javascript": 25,
+        "python": 62,
+        "java": 42
+    },
+    {
+        "Week": "2018-08-26",
+        "javascript": 25,
+        "python": 67,
+        "java": 48
+    },
+    {
+        "Week": "2018-09-02",
+        "javascript": 22,
+        "python": 64,
+        "java": 49
+    },
+    {
+        "Week": "2018-09-09",
+        "javascript": 24,
+        "python": 71,
+        "java": 52
+    },
+    {
+        "Week": "2018-09-16",
+        "javascript": 25,
+        "python": 73,
+        "java": 57
+    },
+    {
+        "Week": "2018-09-23",
+        "javascript": 26,
+        "python": 72,
+        "java": 58
+    },
+    {
+        "Week": "2018-09-30",
+        "javascript": 26,
+        "python": 72,
+        "java": 53
+    },
+    {
+        "Week": "2018-10-07",
+        "javascript": 25,
+        "python": 76,
+        "java": 55
+    },
+    {
+        "Week": "2018-10-14",
+        "javascript": 25,
+        "python": 76,
+        "java": 56
+    },
+    {
+        "Week": "2018-10-21",
+        "javascript": 25,
+        "python": 75,
+        "java": 55
+    },
+    {
+        "Week": "2018-10-28",
+        "javascript": 26,
+        "python": 73,
+        "java": 53
+    },
+    {
+        "Week": "2018-11-04",
+        "javascript": 25,
+        "python": 78,
+        "java": 50
+    },
+    {
+        "Week": "2018-11-11",
+        "javascript": 25,
+        "python": 67,
+        "java": 50
+    },
+    {
+        "Week": "2018-11-18",
+        "javascript": 16,
+        "python": 57,
+        "java": 37
+    },
+    {
+        "Week": "2018-11-25",
+        "javascript": 24,
+        "python": 68,
+        "java": 48
+    },
+    {
+        "Week": "2018-12-02",
+        "javascript": 25,
+        "python": 68,
+        "java": 49
+    },
+    {
+        "Week": "2018-12-09",
+        "javascript": 23,
+        "python": 65,
+        "java": 46
+    },
+    {
+        "Week": "2018-12-16",
+        "javascript": 22,
+        "python": 59,
+        "java": 40
+    },
+    {
+        "Week": "2018-12-23",
+        "javascript": 12,
+        "python": 39,
+        "java": 24
+    },
+    {
+        "Week": "2018-12-30",
+        "javascript": 15,
+        "python": 47,
+        "java": 31
+    },
+    {
+        "Week": "2019-01-06",
+        "javascript": 23,
+        "python": 63,
+        "java": 43
+    },
+    {
+        "Week": "2019-01-13",
+        "javascript": 22,
+        "python": 68,
+        "java": 44
+    },
+    {
+        "Week": "2019-01-20",
+        "javascript": 22,
+        "python": 67,
+        "java": 47
+    },
+    {
+        "Week": "2019-01-27",
+        "javascript": 25,
+        "python": 73,
+        "java": 52
+    },
+    {
+        "Week": "2019-02-03",
+        "javascript": 25,
+        "python": 74,
+        "java": 51
+    },
+    {
+        "Week": "2019-02-10",
+        "javascript": 24,
+        "python": 74,
+        "java": 50
+    },
+    {
+        "Week": "2019-02-17",
+        "javascript": 23,
+        "python": 76,
+        "java": 51
+    },
+    {
+        "Week": "2019-02-24",
+        "javascript": 25,
+        "python": 78,
+        "java": 53
+    },
+    {
+        "Week": "2019-03-03",
+        "javascript": 25,
+        "python": 76,
+        "java": 52
+    },
+    {
+        "Week": "2019-03-10",
+        "javascript": 24,
+        "python": 71,
+        "java": 48
+    },
+    {
+        "Week": "2019-03-17",
+        "javascript": 23,
+        "python": 73,
+        "java": 48
+    },
+    {
+        "Week": "2019-03-24",
+        "javascript": 24,
+        "python": 67,
+        "java": 48
+    },
+    {
+        "Week": "2019-03-31",
+        "javascript": 25,
+        "python": 73,
+        "java": 50
+    },
+    {
+        "Week": "2019-04-07",
+        "javascript": 25,
+        "python": 75,
+        "java": 48
+    },
+    {
+        "Week": "2019-04-14",
+        "javascript": 23,
+        "python": 73,
+        "java": 50
+    },
+    {
+        "Week": "2019-04-21",
+        "javascript": 22,
+        "python": 76,
+        "java": 49
+    },
+    {
+        "Week": "2019-04-28",
+        "javascript": 22,
+        "python": 70,
+        "java": 48
+    },
+    {
+        "Week": "2019-05-05",
+        "javascript": 24,
+        "python": 69,
+        "java": 45
+    },
+    {
+        "Week": "2019-05-12",
+        "javascript": 24,
+        "python": 69,
+        "java": 45
+    },
+    {
+        "Week": "2019-05-19",
+        "javascript": 22,
+        "python": 67,
+        "java": 41
+    },
+    {
+        "Week": "2019-05-26",
+        "javascript": 20,
+        "python": 64,
+        "java": 41
+    },
+    {
+        "Week": "2019-06-02",
+        "javascript": 25,
+        "python": 71,
+        "java": 43
+    },
+    {
+        "Week": "2019-06-09",
+        "javascript": 25,
+        "python": 70,
+        "java": 43
+    },
+    {
+        "Week": "2019-06-16",
+        "javascript": 24,
+        "python": 71,
+        "java": 43
+    },
+    {
+        "Week": "2019-06-23",
+        "javascript": 24,
+        "python": 74,
+        "java": 42
+    },
+    {
+        "Week": "2019-06-30",
+        "javascript": 17,
+        "python": 60,
+        "java": 36
+    },
+    {
+        "Week": "2019-07-07",
+        "javascript": 24,
+        "python": 72,
+        "java": 44
+    },
+    {
+        "Week": "2019-07-14",
+        "javascript": 24,
+        "python": 73,
+        "java": 45
+    },
+    {
+        "Week": "2019-07-21",
+        "javascript": 24,
+        "python": 69,
+        "java": 41
+    },
+    {
+        "Week": "2019-07-28",
+        "javascript": 23,
+        "python": 69,
+        "java": 42
+    },
+    {
+        "Week": "2019-08-04",
+        "javascript": 23,
+        "python": 69,
+        "java": 43
+    },
+    {
+        "Week": "2019-08-11",
+        "javascript": 24,
+        "python": 68,
+        "java": 42
+    },
+    {
+        "Week": "2019-08-18",
+        "javascript": 25,
+        "python": 65,
+        "java": 45
+    },
+    {
+        "Week": "2019-08-25",
+        "javascript": 21,
+        "python": 70,
+        "java": 45
+    },
+    {
+        "Week": "2019-09-01",
+        "javascript": 20,
+        "python": 65,
+        "java": 44
+    },
+    {
+        "Week": "2019-09-08",
+        "javascript": 24,
+        "python": 73,
+        "java": 51
+    },
+    {
+        "Week": "2019-09-15",
+        "javascript": 24,
+        "python": 83,
+        "java": 54
+    },
+    {
+        "Week": "2019-09-22",
+        "javascript": 25,
+        "python": 82,
+        "java": 56
+    },
+    {
+        "Week": "2019-09-29",
+        "javascript": 25,
+        "python": 80,
+        "java": 54
+    },
+    {
+        "Week": "2019-10-06",
+        "javascript": 24,
+        "python": 84,
+        "java": 51
+    },
+    {
+        "Week": "2019-10-13",
+        "javascript": 23,
+        "python": 75,
+        "java": 52
+    },
+    {
+        "Week": "2019-10-20",
+        "javascript": 23,
+        "python": 78,
+        "java": 51
+    },
+    {
+        "Week": "2019-10-27",
+        "javascript": 22,
+        "python": 75,
+        "java": 46
+    },
+    {
+        "Week": "2019-11-03",
+        "javascript": 23,
+        "python": 79,
+        "java": 50
+    },
+    {
+        "Week": "2019-11-10",
+        "javascript": 23,
+        "python": 78,
+        "java": 48
+    },
+    {
+        "Week": "2019-11-17",
+        "javascript": 23,
+        "python": 75,
+        "java": 48
+    },
+    {
+        "Week": "2019-11-24",
+        "javascript": 15,
+        "python": 54,
+        "java": 34
+    },
+    {
+        "Week": "2019-12-01",
+        "javascript": 22,
+        "python": 71,
+        "java": 44
+    },
+    {
+        "Week": "2019-12-08",
+        "javascript": 20,
+        "python": 66,
+        "java": 42
+    },
+    {
+        "Week": "2019-12-15",
+        "javascript": 19,
+        "python": 58,
+        "java": 38
+    },
+    {
+        "Week": "2019-12-22",
+        "javascript": 11,
+        "python": 39,
+        "java": 24
+    },
+    {
+        "Week": "2019-12-29",
+        "javascript": 13,
+        "python": 46,
+        "java": 27
+    },
+    {
+        "Week": "2020-01-05",
+        "javascript": 19,
+        "python": 63,
+        "java": 40
+    },
+    {
+        "Week": "2020-01-12",
+        "javascript": 20,
+        "python": 67,
+        "java": 41
+    },
+    {
+        "Week": "2020-01-19",
+        "javascript": 19,
+        "python": 76,
+        "java": 44
+    },
+    {
+        "Week": "2020-01-26",
+        "javascript": 22,
+        "python": 77,
+        "java": 47
+    },
+    {
+        "Week": "2020-02-02",
+        "javascript": 23,
+        "python": 78,
+        "java": 49
+    },
+    {
+        "Week": "2020-02-09",
+        "javascript": 23,
+        "python": 82,
+        "java": 48
+    },
+    {
+        "Week": "2020-02-16",
+        "javascript": 23,
+        "python": 80,
+        "java": 52
+    },
+    {
+        "Week": "2020-02-23",
+        "javascript": 23,
+        "python": 81,
+        "java": 53
+    },
+    {
+        "Week": "2020-03-01",
+        "javascript": 22,
+        "python": 77,
+        "java": 49
+    },
+    {
+        "Week": "2020-03-08",
+        "javascript": 20,
+        "python": 67,
+        "java": 43
+    },
+    {
+        "Week": "2020-03-15",
+        "javascript": 18,
+        "python": 62,
+        "java": 37
+    },
+    {
+        "Week": "2020-03-22",
+        "javascript": 20,
+        "python": 67,
+        "java": 41
+    },
+    {
+        "Week": "2020-03-29",
+        "javascript": 20,
+        "python": 71,
+        "java": 43
+    },
+    {
+        "Week": "2020-04-05",
+        "javascript": 22,
+        "python": 77,
+        "java": 46
+    },
+    {
+        "Week": "2020-04-12",
+        "javascript": 20,
+        "python": 73,
+        "java": 46
+    },
+    {
+        "Week": "2020-04-19",
+        "javascript": 21,
+        "python": 73,
+        "java": 48
+    },
+    {
+        "Week": "2020-04-26",
+        "javascript": 22,
+        "python": 74,
+        "java": 45
+    },
+    {
+        "Week": "2020-05-03",
+        "javascript": 21,
+        "python": 72,
+        "java": 44
+    },
+    {
+        "Week": "2020-05-10",
+        "javascript": 22,
+        "python": 70,
+        "java": 43
+    },
+    {
+        "Week": "2020-05-17",
+        "javascript": 20,
+        "python": 68,
+        "java": 39
+    },
+    {
+        "Week": "2020-05-24",
+        "javascript": 18,
+        "python": 64,
+        "java": 37
+    },
+    {
+        "Week": "2020-05-31",
+        "javascript": 20,
+        "python": 65,
+        "java": 38
+    },
+    {
+        "Week": "2020-06-07",
+        "javascript": 21,
+        "python": 70,
+        "java": 42
+    },
+    {
+        "Week": "2020-06-14",
+        "javascript": 21,
+        "python": 73,
+        "java": 41
+    },
+    {
+        "Week": "2020-06-21",
+        "javascript": 21,
+        "python": 68,
+        "java": 43
+    },
+    {
+        "Week": "2020-06-28",
+        "javascript": 19,
+        "python": 66,
+        "java": 40
+    },
+    {
+        "Week": "2020-07-05",
+        "javascript": 21,
+        "python": 74,
+        "java": 43
+    },
+    {
+        "Week": "2020-07-12",
+        "javascript": 22,
+        "python": 74,
+        "java": 43
+    },
+    {
+        "Week": "2020-07-19",
+        "javascript": 22,
+        "python": 75,
+        "java": 44
+    },
+    {
+        "Week": "2020-07-26",
+        "javascript": 22,
+        "python": 70,
+        "java": 41
+    },
+    {
+        "Week": "2020-08-02",
+        "javascript": 21,
+        "python": 71,
+        "java": 41
+    },
+    {
+        "Week": "2020-08-09",
+        "javascript": 21,
+        "python": 68,
+        "java": 41
+    },
+    {
+        "Week": "2020-08-16",
+        "javascript": 20,
+        "python": 65,
+        "java": 43
+    },
+    {
+        "Week": "2020-08-23",
+        "javascript": 19,
+        "python": 64,
+        "java": 42
+    },
+    {
+        "Week": "2020-08-30",
+        "javascript": 19,
+        "python": 66,
+        "java": 42
+    },
+    {
+        "Week": "2020-09-06",
+        "javascript": 18,
+        "python": 68,
+        "java": 43
+    },
+    {
+        "Week": "2020-09-13",
+        "javascript": 20,
+        "python": 73,
+        "java": 48
+    },
+    {
+        "Week": "2020-09-20",
+        "javascript": 18,
+        "python": 73,
+        "java": 47
+    },
+    {
+        "Week": "2020-09-27",
+        "javascript": 17,
+        "python": 65,
+        "java": 40
+    },
+    {
+        "Week": "2020-10-04",
+        "javascript": 17,
+        "python": 69,
+        "java": 45
+    },
+    {
+        "Week": "2020-10-11",
+        "javascript": 16,
+        "python": 61,
+        "java": 40
+    },
+    {
+        "Week": "2020-10-18",
+        "javascript": 14,
+        "python": 60,
+        "java": 40
+    },
+    {
+        "Week": "2020-10-25",
+        "javascript": 15,
+        "python": 55,
+        "java": 39
+    },
+    {
+        "Week": "2020-11-01",
+        "javascript": 12,
+        "python": 46,
+        "java": 32
+    },
+    {
+        "Week": "2020-11-08",
+        "javascript": 14,
+        "python": 56,
+        "java": 37
+    },
+    {
+        "Week": "2020-11-15",
+        "javascript": 14,
+        "python": 57,
+        "java": 39
+    },
+    {
+        "Week": "2020-11-22",
+        "javascript": 11,
+        "python": 46,
+        "java": 32
+    },
+    {
+        "Week": "2020-11-29",
+        "javascript": 14,
+        "python": 53,
+        "java": 37
+    },
+    {
+        "Week": "2020-12-06",
+        "javascript": 15,
+        "python": 52,
+        "java": 36
+    },
+    {
+        "Week": "2020-12-13",
+        "javascript": 14,
+        "python": 49,
+        "java": 37
+    },
+    {
+        "Week": "2020-12-20",
+        "javascript": 10,
+        "python": 39,
+        "java": 30
+    },
+    {
+        "Week": "2020-12-27",
+        "javascript": 10,
+        "python": 36,
+        "java": 28
+    },
+    {
+        "Week": "2021-01-03",
+        "javascript": 13,
+        "python": 43,
+        "java": 33
+    },
+    {
+        "Week": "2021-01-10",
+        "javascript": 13,
+        "python": 45,
+        "java": 34
+    },
+    {
+        "Week": "2021-01-17",
+        "javascript": 12,
+        "python": 46,
+        "java": 37
+    },
+    {
+        "Week": "2021-01-24",
+        "javascript": 14,
+        "python": 52,
+        "java": 40
+    },
+    {
+        "Week": "2021-01-31",
+        "javascript": 14,
+        "python": 56,
+        "java": 42
+    },
+    {
+        "Week": "2021-02-07",
+        "javascript": 16,
+        "python": 59,
+        "java": 44
+    },
+    {
+        "Week": "2021-02-14",
+        "javascript": 14,
+        "python": 53,
+        "java": 40
+    },
+    {
+        "Week": "2021-02-21",
+        "javascript": 14,
+        "python": 56,
+        "java": 42
+    },
+    {
+        "Week": "2021-02-28",
+        "javascript": 12,
+        "python": 57,
+        "java": 42
+    },
+    {
+        "Week": "2021-03-07",
+        "javascript": 13,
+        "python": 55,
+        "java": 39
+    },
+    {
+        "Week": "2021-03-14",
+        "javascript": 13,
+        "python": 50,
+        "java": 40
+    },
+    {
+        "Week": "2021-03-21",
+        "javascript": 14,
+        "python": 53,
+        "java": 38
+    },
+    {
+        "Week": "2021-03-28",
+        "javascript": 14,
+        "python": 53,
+        "java": 37
+    },
+    {
+        "Week": "2021-04-04",
+        "javascript": 14,
+        "python": 54,
+        "java": 37
+    },
+    {
+        "Week": "2021-04-11",
+        "javascript": 14,
+        "python": 52,
+        "java": 37
+    },
+    {
+        "Week": "2021-04-18",
+        "javascript": 13,
+        "python": 53,
+        "java": 36
+    },
+    {
+        "Week": "2021-04-25",
+        "javascript": 14,
+        "python": 53,
+        "java": 37
+    },
+    {
+        "Week": "2021-05-02",
+        "javascript": 13,
+        "python": 50,
+        "java": 35
+    },
+    {
+        "Week": "2021-05-09",
+        "javascript": 14,
+        "python": 50,
+        "java": 34
+    },
+    {
+        "Week": "2021-05-16",
+        "javascript": 14,
+        "python": 48,
+        "java": 34
+    },
+    {
+        "Week": "2021-05-23",
+        "javascript": 13,
+        "python": 49,
+        "java": 33
+    },
+    {
+        "Week": "2021-05-30",
+        "javascript": 12,
+        "python": 44,
+        "java": 33
+    },
+    {
+        "Week": "2021-06-06",
+        "javascript": 13,
+        "python": 49,
+        "java": 37
+    },
+    {
+        "Week": "2021-06-13",
+        "javascript": 14,
+        "python": 48,
+        "java": 37
+    },
+    {
+        "Week": "2021-06-20",
+        "javascript": 13,
+        "python": 51,
+        "java": 37
+    },
+    {
+        "Week": "2021-06-27",
+        "javascript": 15,
+        "python": 46,
+        "java": 35
+    },
+    {
+        "Week": "2021-07-04",
+        "javascript": 13,
+        "python": 48,
+        "java": 33
+    },
+    {
+        "Week": "2021-07-11",
+        "javascript": 14,
+        "python": 51,
+        "java": 35
+    },
+    {
+        "Week": "2021-07-18",
+        "javascript": 14,
+        "python": 50,
+        "java": 33
+    },
+    {
+        "Week": "2021-07-25",
+        "javascript": 14,
+        "python": 51,
+        "java": 34
+    },
+    {
+        "Week": "2021-08-01",
+        "javascript": 13,
+        "python": 50,
+        "java": 33
+    },
+    {
+        "Week": "2021-08-08",
+        "javascript": 13,
+        "python": 48,
+        "java": 35
+    },
+    {
+        "Week": "2021-08-15",
+        "javascript": 13,
+        "python": 48,
+        "java": 33
+    },
+    {
+        "Week": "2021-08-22",
+        "javascript": 14,
+        "python": 52,
+        "java": 35
+    },
+    {
+        "Week": "2021-08-29",
+        "javascript": 13,
+        "python": 53,
+        "java": 37
+    },
+    {
+        "Week": "2021-09-05",
+        "javascript": 13,
+        "python": 57,
+        "java": 36
+    },
+    {
+        "Week": "2021-09-12",
+        "javascript": 14,
+        "python": 61,
+        "java": 39
+    },
+    {
+        "Week": "2021-09-19",
+        "javascript": 13,
+        "python": 63,
+        "java": 43
+    },
+    {
+        "Week": "2021-09-26",
+        "javascript": 13,
+        "python": 65,
+        "java": 42
+    },
+    {
+        "Week": "2021-10-03",
+        "javascript": 13,
+        "python": 64,
+        "java": 39
+    },
+    {
+        "Week": "2021-10-10",
+        "javascript": 14,
+        "python": 60,
+        "java": 41
+    },
+    {
+        "Week": "2021-10-17",
+        "javascript": 15,
+        "python": 63,
+        "java": 43
+    },
+    {
+        "Week": "2021-10-24",
+        "javascript": 14,
+        "python": 65,
+        "java": 43
+    },
+    {
+        "Week": "2021-10-31",
+        "javascript": 14,
+        "python": 61,
+        "java": 39
+    },
+    {
+        "Week": "2021-11-07",
+        "javascript": 14,
+        "python": 61,
+        "java": 40
+    },
+    {
+        "Week": "2021-11-14",
+        "javascript": 14,
+        "python": 63,
+        "java": 39
+    },
+    {
+        "Week": "2021-11-21",
+        "javascript": 11,
+        "python": 45,
+        "java": 30
+    },
+    {
+        "Week": "2021-11-28",
+        "javascript": 14,
+        "python": 58,
+        "java": 37
+    },
+    {
+        "Week": "2021-12-05",
+        "javascript": 14,
+        "python": 58,
+        "java": 39
+    },
+    {
+        "Week": "2021-12-12",
+        "javascript": 13,
+        "python": 50,
+        "java": 39
+    },
+    {
+        "Week": "2021-12-19",
+        "javascript": 11,
+        "python": 38,
+        "java": 30
+    },
+    {
+        "Week": "2021-12-26",
+        "javascript": 9,
+        "python": 33,
+        "java": 27
+    },
+    {
+        "Week": "2022-01-02",
+        "javascript": 15,
+        "python": 55,
+        "java": 38
+    },
+    {
+        "Week": "2022-01-09",
+        "javascript": 17,
+        "python": 62,
+        "java": 42
+    },
+    {
+        "Week": "2022-01-16",
+        "javascript": 17,
+        "python": 64,
+        "java": 38
+    },
+    {
+        "Week": "2022-01-23",
+        "javascript": 20,
+        "python": 78,
+        "java": 45
+    },
+    {
+        "Week": "2022-01-30",
+        "javascript": 18,
+        "python": 79,
+        "java": 46
+    },
+    {
+        "Week": "2022-02-06",
+        "javascript": 19,
+        "python": 84,
+        "java": 49
+    },
+    {
+        "Week": "2022-02-13",
+        "javascript": 23,
+        "python": 100,
+        "java": 50
+    },
+    {
+        "Week": "2022-02-20",
+        "javascript": 22,
+        "python": 89,
+        "java": 48
+    },
+    {
+        "Week": "2022-02-27",
+        "javascript": 23,
+        "python": 87,
+        "java": 49
+    },
+    {
+        "Week": "2022-03-06",
+        "javascript": 23,
+        "python": 83,
+        "java": 48
+    },
+    {
+        "Week": "2022-03-13",
+        "javascript": 22,
+        "python": 84,
+        "java": 47
+    },
+    {
+        "Week": "2022-03-20",
+        "javascript": 23,
+        "python": 83,
+        "java": 46
+    },
+    {
+        "Week": "2022-03-27",
+        "javascript": 25,
+        "python": 93,
+        "java": 48
+    },
+    {
+        "Week": "2022-04-03",
+        "javascript": 25,
+        "python": 96,
+        "java": 50
+    },
+    {
+        "Week": "2022-04-10",
+        "javascript": 23,
+        "python": 89,
+        "java": 48
+    },
+    {
+        "Week": "2022-04-17",
+        "javascript": 25,
+        "python": 94,
+        "java": 48
+    },
+    {
+        "Week": "2022-04-24",
+        "javascript": 23,
+        "python": 91,
+        "java": 49
+    },
+    {
+        "Week": "2022-05-01",
+        "javascript": 23,
+        "python": 88,
+        "java": 45
+    },
+    {
+        "Week": "2022-05-08",
+        "javascript": 23,
+        "python": 81,
+        "java": 42
+    },
+    {
+        "Week": "2022-05-15",
+        "javascript": 22,
+        "python": 74,
+        "java": 39
+    },
+    {
+        "Week": "2022-05-22",
+        "javascript": 20,
+        "python": 73,
+        "java": 39
+    },
+    {
+        "Week": "2022-05-29",
+        "javascript": 19,
+        "python": 68,
+        "java": 38
+    },
+    {
+        "Week": "2022-06-05",
+        "javascript": 21,
+        "python": 74,
+        "java": 42
+    },
+    {
+        "Week": "2022-06-12",
+        "javascript": 21,
+        "python": 75,
+        "java": 42
+    },
+    {
+        "Week": "2022-06-19",
+        "javascript": 20,
+        "python": 77,
+        "java": 41
+    },
+    {
+        "Week": "2022-06-26",
+        "javascript": 20,
+        "python": 79,
+        "java": 43
+    },
+    {
+        "Week": "2022-07-03",
+        "javascript": 18,
+        "python": 70,
+        "java": 39
+    },
+    {
+        "Week": "2022-07-10",
+        "javascript": 21,
+        "python": 80,
+        "java": 42
+    },
+    {
+        "Week": "2022-07-17",
+        "javascript": 21,
+        "python": 82,
+        "java": 43
+    },
+    {
+        "Week": "2022-07-24",
+        "javascript": 21,
+        "python": 75,
+        "java": 40
+    },
+    {
+        "Week": "2022-07-31",
+        "javascript": 21,
+        "python": 74,
+        "java": 43
+    },
+    {
+        "Week": "2022-08-07",
+        "javascript": 20,
+        "python": 76,
+        "java": 39
+    },
+    {
+        "Week": "2022-08-14",
+        "javascript": 20,
+        "python": 70,
+        "java": 39
+    },
+    {
+        "Week": "2022-08-21",
+        "javascript": 22,
+        "python": 80,
+        "java": 42
+    },
+    {
+        "Week": "2022-08-28",
+        "javascript": 20,
+        "python": 77,
+        "java": 41
+    },
+    {
+        "Week": "2022-09-04",
+        "javascript": 18,
+        "python": 77,
+        "java": 43
+    },
+    {
+        "Week": "2022-09-11",
+        "javascript": 21,
+        "python": 87,
+        "java": 46
+    },
+    {
+        "Week": "2022-09-18",
+        "javascript": 22,
+        "python": 92,
+        "java": 48
+    },
+    {
+        "Week": "2022-09-25",
+        "javascript": 22,
+        "python": 91,
+        "java": 47
+    },
+    {
+        "Week": "2022-10-02",
+        "javascript": 21,
+        "python": 90,
+        "java": 46
+    },
+    {
+        "Week": "2022-10-09",
+        "javascript": 20,
+        "python": 91,
+        "java": 46
+    },
+    {
+        "Week": "2022-10-16",
+        "javascript": 22,
+        "python": 91,
+        "java": 47
+    },
+    {
+        "Week": "2022-10-23",
+        "javascript": 21,
+        "python": 96,
+        "java": 42
+    },
+    {
+        "Week": "2022-10-30",
+        "javascript": 21,
+        "python": 92,
+        "java": 43
+    },
+    {
+        "Week": "2022-11-06",
+        "javascript": 21,
+        "python": 84,
+        "java": 43
+    },
+    {
+        "Week": "2022-11-13",
+        "javascript": 22,
+        "python": 90,
+        "java": 44
+    },
+    {
+        "Week": "2022-11-20",
+        "javascript": 15,
+        "python": 64,
+        "java": 34
+    },
+    {
+        "Week": "2022-11-27",
+        "javascript": 20,
+        "python": 81,
+        "java": 42
+    },
+    {
+        "Week": "2022-12-04",
+        "javascript": 21,
+        "python": 86,
+        "java": 43
+    },
+    {
+        "Week": "2022-12-11",
+        "javascript": 20,
+        "python": 78,
+        "java": 39
+    },
+    {
+        "Week": "2022-12-18",
+        "javascript": 16,
+        "python": 62,
+        "java": 33
+    },
+    {
+        "Week": "2022-12-25",
+        "javascript": 13,
+        "python": 47,
+        "java": 28
+    },
+    {
+        "Week": "2023-01-01",
+        "javascript": 16,
+        "python": 62,
+        "java": 33
+    },
+    {
+        "Week": "2023-01-08",
+        "javascript": 19,
+        "python": 71,
+        "java": 39
+    },
+    {
+        "Week": "2023-01-15",
+        "javascript": 20,
+        "python": 72,
+        "java": 40
+    },
+    {
+        "Week": "2023-01-22",
+        "javascript": 21,
+        "python": 86,
+        "java": 47
+    },
+    {
+        "Week": "2023-01-29",
+        "javascript": 21,
+        "python": 89,
+        "java": 48
+    },
+    {
+        "Week": "2023-02-05",
+        "javascript": 23,
+        "python": 90,
+        "java": 48
+    },
+    {
+        "Week": "2023-02-12",
+        "javascript": 22,
+        "python": 89,
+        "java": 46
+    },
+    {
+        "Week": "2023-02-19",
+        "javascript": 19,
+        "python": 88,
+        "java": 44
+    },
+    {
+        "Week": "2023-02-26",
+        "javascript": 21,
+        "python": 87,
+        "java": 45
+    },
+    {
+        "Week": "2023-03-05",
+        "javascript": 20,
+        "python": 90,
+        "java": 42
+    }
+]

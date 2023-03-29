@@ -1,0 +1,32 @@
+
+<!-- Antonio Balanzategui, 3/18/2023 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Driven Document</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="style.css" rel="stylesheet">
+
+</head>
+<body>
+<h1 class = "wpHeader">Google Search Programming Trends</h1>
+<div class = "grid-container">
+    <div id = "scatter-plot"></div>
+    <div id = "pie-chart"></div>
+    <div id = "info">
+        <h3>
+            <a href="data.json" download title = "JSON Data">Information</a>
+        </h3>
+        <p>
+            The Average value of interest
+            over duration of three years for
+            Python, Java, and JavaScript
+        </p>
+        <p id="average-info">...</p>
+    </div>
+    <div id = "histogram-chart"></div>
+</div>
+<script type="module" src="script.js"></script>
+
+</body>
+</html>
