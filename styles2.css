@@ -1,0 +1,80 @@
+/* Antonio Balanzategui, 3/18/2023 */
+body {
+    background-color: #F5F5F5;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    gap: 20px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-width: 3px 3px 3px 3px;
+    border-color: #C8C8C8;
+    border-style: solid;
+}
+
+#scatter-plot {
+    grid-column: 1 / span 3;
+    grid-row: 2;
+    height: 40vh;
+    font-size: 1vw;
+    color: #333333;
+}
+
+#pie-chart {
+    grid-column: 1 / span 1;
+    grid-row: 3;
+    height: 40vh;
+    color: #333333;
+}
+#info {
+    grid-column: 2;
+    grid-row: 3;
+    height: 40vh;
+    span: 1;
+    font-size: min(1vw, 3vh);
+    justify-content: center;
+    color: #333333;
+}
+
+.wpHeader {
+    text-align: center;
+    font-size: 2vw;
+    color: #333333;
+}
+
+#histogram-chart {
+    grid-column: 3;
+    grid-row: 3;
+    height: 40vh;
+    span: 1;
+    color: #333333;
+}
+
+#headerDiv {
+    grid-column: 1 / span 3;
+    grid-row: 1;
+    height: 40vh;
+}
+
+.tooltip {
+    position: absolute;
+    opacity: 0;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 12px;
+}
+
+path:hover, slices:hover, rect:hover, circle:hover {
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.2));
+}
+
+h3 a:link, h3 a:visited {
+    color: #333333;
+}
+
+h3 a:hover {
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.2));
+}
